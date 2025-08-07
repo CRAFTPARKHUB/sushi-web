@@ -1,1 +1,0 @@
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/resources/SidePanel/sidePanelUtil.js

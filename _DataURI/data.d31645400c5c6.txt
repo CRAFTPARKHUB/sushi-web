@@ -1,1 +1,0 @@
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/node_modules/@mozilla/readability/Readability-readerable.js
